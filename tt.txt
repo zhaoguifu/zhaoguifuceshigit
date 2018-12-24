@@ -1,2 +1,3 @@
 TODAY IS  TEST  GIT STUDY !!
-ru he genghao de shiyong  vim 
+ru he genghao de shiyong  vim
+我想我是海！！
