@@ -2,3 +2,5 @@ TODAY IS  TEST  GIT STUDY !!
 ru he genghao de shiyong  vim
 我想我是海！！
 我不得不再次修改，干啥？好看结果啊~~为了验证暂存区的概念，我又增加了数据。我修改文件了啊,,,,,,wo de 紧着的修改,,wojiushiwo jitnian you zuole yixie xinxi de chuli gongzuowo ,,,这个是我测试一个新的分区。
+最好的Test 还是要更好的去学习相关的知识，因为只有这样我们才可以做的更好！
+加油！！
